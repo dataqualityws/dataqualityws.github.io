@@ -1,0 +1,12 @@
+---
+layout: default
+category: Services
+img : NULL
+title: Important dates
+tag: dates
+description: |
+---
+- Paper submission deadline: ~~February 26, 2024~~ March 11, 2024
+- Notification of Acceptance: March 28, 2024
+- Camera-ready paper due: April 18, 2024
+- ESWC 2024 Workshop days: May 26, 2024
