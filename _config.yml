@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: https://dataquality.github.io
-title: Data Quality workshop
+title: Data Quality Workshop
 email: mapellegrino@unisa.it
 author: Maria Angela Pellegrino, on behalf of the Data Quality workshop organizers
 description: > # "Write an awesome description for your new site here. 
@@ -28,5 +28,5 @@ social:
   #  url: https://twitter.com/SBootstrap
   #- title: github
   #  url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: https://www.linkedin.com/company/dqmlkg
+  #- title: linkedin
+  #  url: https://www.linkedin.com/company/dqmlkg
