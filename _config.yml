@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://dqmlkg.github.io
-title: DQMLKG
+url: https://dataquality.github.io
+title: Data Quality workshop
 email: mapellegrino@unisa.it
-author: Maria Angela Pellegrino, on behalf of the DQMLKG workshop organizers
+author: Maria Angela Pellegrino, on behalf of the Data Quality workshop organizers
 description: > # "Write an awesome description for your new site here. 
   Data Quality meets Machine Learning and Knowledge Graphs (DQMLKG) is a workshop colocated with ESWC 2024 aiming to investigate the use of Machine Learning to perform Data Quality assessment or improvement of Knowledge Graphs.
 #copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
