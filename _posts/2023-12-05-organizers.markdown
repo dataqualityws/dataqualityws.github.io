@@ -11,7 +11,7 @@ description: |
 |:-:|:-:|:-:|
 |Maria Angela Pellegrino|Anisa Rula|Anelia Kurteva|
 |:-:|:-:|:-:|
-|<em>University of Salerno</em>|<em>University of Brescia</em>|<em>King’s College London</em>||
+|<em>University of Salerno</em>|<em>University of Brescia</em>|<em>King’s College London</em>|
 |:-:|:-:|:-:|
 |Italy|Italy|United Kingdom|
 
