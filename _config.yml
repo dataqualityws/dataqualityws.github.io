@@ -3,11 +3,13 @@
 # ----------------------- #
 
 url: https://dataquality.github.io
-title: Data Quality Workshop
+title: Web of Data Quality Workshop
 email: mapellegrino@unisa.it
 author: Maria Angela Pellegrino, on behalf of the Data Quality workshop organizers
 description: > # "Write an awesome description for your new site here. 
-  Data Quality meets Machine Learning and Knowledge Graphs (DQMLKG) is a workshop colocated with ESWC 2024 aiming to investigate the use of Machine Learning to perform Data Quality assessment or improvement of Knowledge Graphs.
+  Web of Data Quality Workshop is colocated with The Web Conference 2025 aiming to foster a 
+  focused and in-depth discussion to cultivate practical strategies and tools that can strengthen data pipelines across various domains, 
+  ensuring that data quality is prioritized, reproducible, and effective in driving reliable  outcomes. 
 #copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
 #credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
