@@ -7,7 +7,7 @@ tag: board
 description: |
 ---
 
-|<img class="board" src="assets/heiko-paulheim.png" width="200">|<img class="organizers" src="assets/laure-berti-equille.jpeg" width="200">|<img class="organizers" src="assets/paul-groth.jpg" width="200">|
+|<img class="organizers" src="assets/heiko-paulheim.png" width="200">|<img class="organizers" src="assets/laure-berti-equille.jpeg" width="200">|<img class="organizers" src="assets/paul-groth.jpg" width="200">|
 |:-:|:-:|:-:|
 |Heiko Paulheim|Laure Berti-Équille|Paul Groth|
 |:-:|:-:|:-:|
