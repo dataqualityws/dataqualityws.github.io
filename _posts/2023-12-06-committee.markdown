@@ -18,7 +18,7 @@ tag: pc
 - Jeremy Debattista, Trinity College Dublin, Ireland
 - Jose Emilio Labra Gayo, University of Oviedo, Spain
 - Maribel Acosta, Technical University of Munich, Germany
-- Marta Sabou, Vrije Universiteit, Holland
+- Marta Sabou, WU Vien, Austria
 - Matteo Palmonari, Università degli Studi di Milano-Bicocca, Italy
 - Mehwish Alam, Institut Polytechnique de Paris, France
-- Paul Groth, University of Amsterdam, Holland
+- Paul Groth, University of Amsterdam, The Netherlands
