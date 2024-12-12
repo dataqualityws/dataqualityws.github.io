@@ -6,8 +6,8 @@ title: Important dates
 tag: dates
 description: |
 ---
-- Paper submission deadline: 18 December, 2024
-- Notification of Acceptance: 13 January, 2025
+- Paper submission deadline: ~18 December, 2024~ 8 January, 2025
+- Notification of Acceptance: ~13 January, 2025~ 23 January, 2025
 - Camera-ready paper due: 2 February, 2025
 - The Web Conference 2025 Workshops days: 28 April - 29 April, 2025
 
