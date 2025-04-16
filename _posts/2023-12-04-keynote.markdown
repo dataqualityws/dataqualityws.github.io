@@ -5,14 +5,14 @@ category: Services
 title: Program details and Keynote
 tag: program
 ---
-| Start | Duration (in minutes) | End | Speaker | Talk title |
-| ----- | -------  | --- | ------- | -----------|
-| 13:30 | 35 + 10 Q/A | 14:15 | **Gianluca Demartini**, *University of Queensland* | Keynote entitled *"Bias in Data Annotations"*|
-| 14:15 | 12 + 3 Q/A  | 14:30 | Oshani Seneviratne |	Explainability-Driven Quality Assessment" for Rule-Based Systems |
-| 14:30 | 8 + 2 Q/A   | 14:40 | Shima Esfandiari	| Enhancing Data Quality by Identifying Influential Nodes: Integrating Complementary Features with CoCoFISo |
-| 14:40 | 12 + 3 Q/A  | 14:55 | Yuhao Gong |	Adaptive Confidence-aware Preference-based Reinforcement Learning with Noisy Feedback |
-| 15:00 | 30  | 15:30 | BREAK | Take a coffee! |
-| 15:30 | 25 + 5 Q/A | 16:00	| **Paolo Missier**, *University of Birmingham* | Invited lightning talk |
-| 16:00 | 12 + 3 Q/A | 16:15 |	Gabriele Tuozzo	| Navigating the LOD Subclouds: Assessing Linked Open Data Quality by Domain |
-| 16:15	| 8 + 2 Q/A | 16:25	| Elyas Meguellati	| Are Large Language Models Good Data Preprocessors?
-| 16:25 | 25 + 5 Q/A | 16:55 | **Kerry Taylor**, *Australian National University* | Invited lightning talk |
+| Start | Speaker | Talk title |
+| ----- | ------- | -----------|
+| 13:30 | **Gianluca Demartini**, *University of Queensland* | Keynote entitled *"Bias in Data Annotations"*|
+| 14:15 | Oshani Seneviratne |	Explainability-Driven Quality Assessment" for Rule-Based Systems |
+| 14:30 | Shima Esfandiari	| Enhancing Data Quality by Identifying Influential Nodes: Integrating Complementary Features with CoCoFISo |
+| 14:40 | Yuhao Gong |	Adaptive Confidence-aware Preference-based Reinforcement Learning with Noisy Feedback |
+| 15:00 | BREAK - Take a coffee! :) |
+| 15:30 | **Paolo Missier**, *University of Birmingham* | Invited lightning talk |
+| 16:00 | Gabriele Tuozzo	| Navigating the LOD Subclouds: Assessing Linked Open Data Quality by Domain |
+| 16:15	| Elyas Meguellati	| Are Large Language Models Good Data Preprocessors?
+| 16:25 | **Kerry Taylor**, *Australian National University* | Invited lightning talk |
