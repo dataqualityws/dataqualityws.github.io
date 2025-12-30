@@ -2,10 +2,12 @@
 layout: default
 #img: keynote.png
 category: Services
-title: Program details and Keynote
+title: Program 
 tag: program
 ---
-| Start | Speaker | Talk title | Presentation |
+To be announced in 2026.
+
+<!--| Start | Speaker | Talk title | Presentation |
 | ----- | ------- | -----------| ------ |
 | 13:30 | Maria Angela Pellegrino | Web of Data Quality Workshop Opening | [Presentation](assets/Intro-WebOfDataQualityWs.ppsx) |
 | 13:35 | **Gianluca Demartini**, *University of Queensland* | Keynote entitled *"Bias in Data Annotations"*| [Presentation](assets/Demartini-BiasInDataAnnotations.pdf) |
@@ -16,4 +18,4 @@ tag: program
 | 15:30 | **Kerry Taylor**, *Australian National University* | *"Does Data Quality Even Matter?"* | [Presentation](assets/Taylor-DoesDataQualityEvenMatter.pdf) |
 | 16:15 | Gabriele Tuozzo	| Navigating the LOD Subclouds: Assessing Linked Open Data Quality by Domain | [Presentation](assets/WoDQ2025-paper4.pdf) |
 | 16:30	| Elyas Meguellati	| Are Large Language Models Good Data Preprocessors? | [Presentation](assets/WoDQ2025-paper5.pdf) |
-| 16:45 | Maria Angela Pellegrino | Web of Data Quality Workshop Closing Ceremony | |
+| 16:45 | Maria Angela Pellegrino | Web of Data Quality Workshop Closing Ceremony | |-->
