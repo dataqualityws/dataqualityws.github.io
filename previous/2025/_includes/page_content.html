@@ -4,7 +4,7 @@
 
 {% for post in site.posts reversed %}
   {% assign parts = post.path | split: '/' %}
-  {% if parts.size == 3 and parts[0] == current_dir and parts[1] == '_posts' %}
+  {% if parts.size == 4 and parts[0] == current_dir and parts[1] == '_posts' %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
     <div class="content-section-a">
