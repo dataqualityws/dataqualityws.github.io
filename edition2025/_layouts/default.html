@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html>
 
-	<link rel="stylesheet" href="{{ '/css/*.css' | relative_url }}">
-	<script src="{{ '/js/*.js' | relative_url }}"></script>
-	<img src="{{ '/img/*' | relative_url }}" alt="Logo">
-	<img src="{{ '/assets/*' | relative_url }}">
+	<link rel="stylesheet" href="{{ '/css/bootstrap.css' | relative_url }}">
+	<link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}">
+	<link rel="stylesheet" href="{{ '/css/landscape.css' | relative_url }}">
+
+	<script src="{{ '/js/bootstrap.js' | relative_url }}"></script>
+	<script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
+	<script src="{{ '/js/jquery-1.11.0.js' | relative_url }}"></script>
+	<script src="{{ '/js/jquery.easing.min.js' | relative_url }}"></script>
+	<script src="{{ '/js/landing-page.js' | relative_url }}"></script>
+
+	<img src="{{ '/img/sydney.jpeg' | relative_url }}">
+	
+	<img src="{{ '/assets/anelia-kurteva.jpeg' | relative_url }}">
+	<img src="{{ '/assets/anisa-rula.jpeg' | relative_url }}">
+	<img src="{{ '/assets/mariaangela-pellegrino.jpeg' | relative_url }}">
 
 	{% if page.edition == "root" %}
   		{% include header-root.html %}
