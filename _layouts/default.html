@@ -6,7 +6,7 @@
   		{% include header-2025.html %}
 	{% endif %}
 
-	<body>
+	<body class="edition-{{ page.edition | default: 'root' }}">
 
 	{% if page.edition == "root" %}
 		{% include head-root.html %}

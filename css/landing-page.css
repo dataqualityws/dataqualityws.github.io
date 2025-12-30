@@ -31,8 +31,15 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/dubrovinik.jpg) no-repeat center center;
     background-size: cover;
+}
+
+.intro-header.edition-root{
+    background: url(../img/dubrovinik.jpg) no-repeat center center;
+}
+
+.intro-header.edition-2025{
+    background: url(../img/sydney.jpeg) no-repeat center center;
 }
 
 .intro-message {
@@ -112,8 +119,15 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/dubrovinik.jpg) no-repeat center center;
     background-size: cover;
+}
+
+.banner.edition-root {
+    background: url(../img/dubrovinik.jpg) no-repeat center center;
+}
+
+.banner.edition-2025 {
+    background: url(../img/sydney.jpeg) no-repeat center center;
 }
 
 .banner h2 {
