@@ -3,7 +3,7 @@
 # ----------------------- #
 
 title: "Data Quality WS 2025"
-baseurl: "/edition2025/" # path relative to main site root
+baseurl: "/edition2025" # path relative to main site root
 url: "https://dataqualityws.github.io"
 email: mapellegrino@unisa.it
 author: Maria Angela Pellegrino, on behalf of the QKG@ESWC 2026 organizers
