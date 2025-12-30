@@ -1,45 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
 
-	<link rel="stylesheet" href="{{ '/css/bootstrap.css' | relative_url }}">
-	<link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}">
-	<link rel="stylesheet" href="{{ '/css/landscape.css' | relative_url }}">
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/css/bootstrap.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/css/landscape.css' | relative_url }}">
 
-	<script src="{{ '/js/bootstrap.js' | relative_url }}"></script>
-	<script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
-	<script src="{{ '/js/jquery-1.11.0.js' | relative_url }}"></script>
-	<script src="{{ '/js/jquery.easing.min.js' | relative_url }}"></script>
-	<script src="{{ '/js/landing-page.js' | relative_url }}"></script>
+    <!-- JS that must go in head (optional) -->
+    <script src="{{ '/js/jquery-1.11.0.js' | relative_url }}"></script>
+    <script src="{{ '/js/jquery.easing.min.js' | relative_url }}"></script>
+</head>
+<body>
 
-	<img src="{{ '/img/sydney.jpeg' | relative_url }}">
-	
-	<img src="{{ '/assets/anelia-kurteva.jpeg' | relative_url }}">
-	<img src="{{ '/assets/anisa-rula.jpeg' | relative_url }}">
-	<img src="{{ '/assets/mariaangela-pellegrino.jpeg' | relative_url }}">
+    <!-- Header based on edition -->
+    {% include header-2025.html %}
 
-	{% if page.edition == "root" %}
-  		{% include header-root.html %}
-	{% elsif page.edition == "2025" %}
-  		{% include header-2025.html %}
-	{% endif %}
+    <!-- Main content -->
+	{% include head-2025.html %}
+	{% include about-2025.html %}
+	{% include page_content-2025.html %}
+	{% include contact-2025.html %}
+	{% include footer-2025.html %}
+	{% include js-2025.html %}
+  
 
-	<body>
+    <!-- Images should be placed inside content or layout sections -->
+    <img src="{{ '/img/sydney.jpeg' | relative_url }}" alt="Sydney">
+    <img src="{{ '/assets/anelia-kurteva.jpeg' | relative_url }}" alt="Anelia Kurteva">
+    <img src="{{ '/assets/anisa-rula.jpeg' | relative_url }}" alt="Anisa Rula">
+    <img src="{{ '/assets/mariaangela-pellegrino.jpeg' | relative_url }}" alt="Maria Angela Pellegrino">
 
-	{% if page.edition == "root" %}
-		{% include head-root.html %}
-		{% include about-root.html %}
-		{% include page_content-root.html %}
-		{% include contact-root.html %}
-		{% include footer-root.html %}
-		{% include js-root.html %}
-  	{% elsif page.edition == "2025" %}
-		{% include head-2025.html %}
-		{% include about-2025.html %}
-		{% include page_content-2025.html %}
-		{% include contact-2025.html %}
-		{% include footer-2025.html %}
-		{% include js-2025.html %}
-  	{% endif %}
+    <!-- JS scripts at end of body -->
+    <script src="{{ '/js/bootstrap.js' | relative_url }}"></script>
+    <script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
+    <script src="{{ '/js/landing-page.js' | relative_url }}"></script>
 
-	</body>
+</body>
 </html>
