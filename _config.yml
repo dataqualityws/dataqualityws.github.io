@@ -20,6 +20,8 @@ description: > # "Write an awesome description for your new site here.
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude:
+  - edition2025
 
 # ----------------------- #
 #   3rd Party Settings    #
