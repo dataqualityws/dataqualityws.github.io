@@ -1,0 +1,14 @@
+---
+layout: default
+category: Services
+img : NULL
+title: Important dates
+tag: dates
+description: |
+---
+- Paper submission deadline: ~~18 December, 2024~~ 8 January, 2025
+- Notification of Acceptance: ~~13 January, 2025~~ 27 January, 2025
+- Camera-ready paper due: 2 February, 2025
+- The Web Conference 2025 Workshops day: **April 28th, 2025, from 1:30 PM to 5:00 PM (Sydney time)**
+
+All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.

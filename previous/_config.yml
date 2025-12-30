@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://dataquality.github.io
+title: Web of Data Quality Workshop
+email: mapellegrino@unisa.it
+author: Maria Angela Pellegrino, on behalf of the Data Quality workshop organizers
+description: > # "Write an awesome description for your new site here. 
+  Web of Data Quality Workshop is colocated with The Web Conference 2025 aiming to foster a 
+  focused and in-depth discussion to cultivate practical strategies and tools that can strengthen data pipelines across various domains, 
+  ensuring that data quality is prioritized, reproducible, and effective in driving reliable  outcomes. 
+#copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+#credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  #- title: twitter
+  #  url: https://twitter.com/SBootstrap
+  #- title: github
+  #  url: https://github.com/IronSummitMedia/startbootstrap
+  #- title: linkedin
+  #  url: https://www.linkedin.com/company/dqmlkg
