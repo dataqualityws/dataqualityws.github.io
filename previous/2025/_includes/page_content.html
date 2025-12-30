@@ -1,10 +1,13 @@
 <section id="services">
 <!-- Page Content -->
-{% assign current_dir = page.path | split: '/' | first %}
+{% assign page_parts = page.path | split: '/' %}
+{% assign current_base = page_parts[0] | append: '/' | append: page_parts[1] %}
 
 {% for post in site.posts reversed %}
-  {% assign parts = post.path | split: '/' %}
-  {% if parts.size == 4 and parts[0] == current_dir and parts[1] == '_posts' %}
+  {% assign post_parts = post.path | split: '/' %}
+  {% assign post_base = post_parts[0] | append: '/' | append: post_parts[1] %}
+
+  {% if post_parts.size == 4 and post_base == current_base and post_parts[2] == '_posts' %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
     <div class="content-section-a">
