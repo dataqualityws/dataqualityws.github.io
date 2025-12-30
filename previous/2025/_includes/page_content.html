@@ -1,11 +1,6 @@
 <section id="services">
 <!-- Page Content -->
-{% assign base = page.path | split: '/' | slice: 0, 2 | join: '/' %}
-
-{% for post in site.posts reversed %}
-  {% assign post_dir = post.path | split: '/' | slice: 0, 3 | join: '/' %}
-
-  {% if post_dir == base | append: '/_posts' %}
+{% for post in site.previous.2025.2025posts reversed %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
     <div class="content-section-a">
@@ -69,7 +64,6 @@
 
     </div>
     <!-- /.content-section-b -->
-    {% endif %}
     {% endif %}
 {% endfor %}
 </section>
