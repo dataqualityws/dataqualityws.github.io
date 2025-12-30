@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
-	{% include head.html %}
+	{% include header-{{ page.edition }}.html %}
 
 	<body>
-		{% include header.html %}
-		{% include about.html %}
-		{% include page_content.html %}
-		{% include contact.html %}
-		{% include footer.html %}
-		{% include js.html %}
+		{% include head-{{ page.edition }}.html %}
+		{% include about-{{ page.edition }}.html %}
+		{% include page_content-{{ page.edition }}.html %}
+		{% include contact-{{ page.edition }}.html %}
+		{% include footer-{{ page.edition }}.html %}
+		{% include js-{{ page.edition }}.html %}
 	</body>
 </html>
