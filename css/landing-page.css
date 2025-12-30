@@ -34,11 +34,19 @@ h6 {
     background-size: cover;
 }
 
-.intro-header.edition-root{
+.intro-header .edition-root{
     background: url(../img/dubrovinik.jpg) no-repeat center center;
 }
 
-.intro-header.edition-2025{
+.intro-header .edition-2025{
+    background: url(../img/sydney.jpeg) no-repeat center center;
+}
+
+.banner .edition-root{
+    background: url(../img/dubrovinik.jpg) no-repeat center center;
+}
+
+.banner .edition-2025{
     background: url(../img/sydney.jpeg) no-repeat center center;
 }
 
@@ -120,14 +128,6 @@ h6 {
     padding: 100px 0;
     color: #f8f8f8;
     background-size: cover;
-}
-
-.banner.edition-root {
-    background: url(../img/dubrovinik.jpg) no-repeat center center;
-}
-
-.banner.edition-2025 {
-    background: url(../img/sydney.jpeg) no-repeat center center;
 }
 
 .banner h2 {
