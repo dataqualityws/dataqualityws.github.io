@@ -1,7 +1,9 @@
 <section id="services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
-    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% assign parts = post.path | split: '/' %}
+  {% if parts.size == 2 and parts[0] == '_posts' %}
+      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
     <div class="content-section-a">
         <div class="container">
@@ -64,6 +66,7 @@
 
     </div>
     <!-- /.content-section-b -->
+    {% endif %}
     {% endif %}
 {% endfor %}
 </section>
