@@ -34,19 +34,11 @@ h6 {
     background-size: cover;
 }
 
-.intro-header .edition-root{
+.edition-root{
     background: url(../img/dubrovinik.jpg) no-repeat center center;
 }
 
-.intro-header .edition-2025{
-    background: url(../img/sydney.jpeg) no-repeat center center;
-}
-
-.banner .edition-root{
-    background: url(../img/dubrovinik.jpg) no-repeat center center;
-}
-
-.banner .edition-2025{
+.edition-2025{
     background: url(../img/sydney.jpeg) no-repeat center center;
 }
 
