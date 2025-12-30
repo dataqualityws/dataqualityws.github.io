@@ -2,7 +2,7 @@
 layout: default
 #img: keynote.png
 category: Services
-title: Program details and Keynote
+title: Program 
 tag: program
 ---
 | Start | Speaker | Talk title | Presentation |
