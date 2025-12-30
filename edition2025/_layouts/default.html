@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-	<link rel="stylesheet" href="/css/*.css">
-	<script src="/js/*.js"></script>
-	<img src="/img/*">
-	<img src="/assets/*">
+	<link rel="stylesheet" href="{{ '/css/*.css' | relative_url }}">
+	<script src="{{ '/js/*.js' | relative_url }}"></script>
+	<img src="{{ '/img/*' | relative_url }}" alt="Logo">
+	<img src="{{ '/assets/*' | relative_url }}">
 
 	{% if page.edition == "root" %}
   		{% include header-root.html %}
