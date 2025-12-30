@@ -6,7 +6,7 @@ title: Organization
 tag: organizers
 description: |
 ---
-👥 Organizers
+👥 **Organizers**
 
 |<img class="organizers" src="assets/mariaangela-pellegrino.jpg" width="200">|<img class="organizers" src="assets/anisa-rula.jpeg" width="200">|<img class="organizers" src="assets/joseemilio.png" width="200">|
 |:-:|:-:|:-:|
@@ -16,7 +16,7 @@ description: |
 |:-:|:-:|:-:|
 |Italy|Italy|Spain|
 
-🧑‍💻 Program Committee (Tentative)
+🧑‍💻 **Program Committee** (Tentative)
 
 - Aidan Hogan — Universidad de Chile, Chile
 - Anastasia Dimou — KU Leuven, Belgium
