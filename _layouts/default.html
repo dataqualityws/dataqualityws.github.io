@@ -1,28 +1,15 @@
 <!DOCTYPE html>
 <html>
-	{% if page.edition == "root" %}
-  		{% include header-root.html %}
-	{% elsif page.edition == "2025" %}
-  		{% include header-2025.html %}
-	{% endif %}
-
+	{% include header.html %}
+	
 	<body>
 
-	{% if page.edition == "root" %}
-		{% include head-root.html %}
-		{% include about-root.html %}
-		{% include page_content-root.html %}
-		{% include contact-root.html %}
-		{% include footer-root.html %}
-		{% include js-root.html %}
-  	{% elsif page.edition == "2025" %}
-		{% include head-2025.html %}
-		{% include about-2025.html %}
-		{% include page_content-2025.html %}
-		{% include contact-2025.html %}
-		{% include footer-2025.html %}
-		{% include js-2025.html %}
-  	{% endif %}
-
+	{% include head.html %}
+	{% include about.html %}
+	{% include page_content.html %}
+	{% include contact.html %}
+	{% include footer.html %}
+	{% include js.html %}
+  	
 	</body>
 </html>
