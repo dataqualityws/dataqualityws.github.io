@@ -43,7 +43,7 @@ Submissions...
 - must be formatted using the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 - should present original research, practical experiences, tools, datasets, or visionary perspectives related to Knowledge Graph and Linked Data quality.
 
-Submission is handled via EasyChair (the link will be shortly disclosed).
+Submission is handled via [EasyChair](https://easychair.org/conferences/?conf=qkg2026).
 
 All papers will undergo peer review by the Program Committee and will be published in the workshop proceedings.
 
