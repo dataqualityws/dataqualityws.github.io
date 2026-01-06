@@ -40,7 +40,7 @@ We welcome the following types of submissions:
 Submissions...
 - must be written in English 
 - must be anonymous 
-- must be formatted using the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+- must be formatted using the [CEUR format](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)
 - should present original research, practical experiences, tools, datasets, or visionary perspectives related to Knowledge Graph and Linked Data quality.
 
 Submission is handled via [EasyChair](https://easychair.org/conferences/?conf=qkg2026).
