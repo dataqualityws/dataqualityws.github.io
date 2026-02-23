@@ -16,20 +16,16 @@ description: |
 |:-:|:-:|:-:|
 |Italy|Italy|Spain|
 
-🧑‍💻 **Program Committee** (Tentative)
+🧑‍💻 **Program Committee**
 
-- Aidan Hogan — Universidad de Chile, Chile
-- Anastasia Dimou — KU Leuven, Belgium
-- Andrea Maurino — University of Milano-Bicocca, Italy
-- Axel Polleres — Vienna University of Economics & Business, Austria
-- Blerina Spahiu — University of Milano-Bicocca, Italy
+- Dimitris Kontokostas - Medidata Knowledge Graph, USA
 - Ernesto Jiménez-Ruiz — University of London, UK
-- Heiko Paulheim — University of Mannheim, Germany
-- Jeremy Debattista — Trinity College Dublin, Ireland
-- Marta Sabou — Vrije Universiteit, Austria
-- Mehwish Alam — Institut Polytechnique de Paris, France
-- Paul Groth — University of Amsterdam, Netherlands
 - Gabriele Tuozzo — University of Salerno, Italy
-- Lorena Etcheverry — Universidad de la República, Uruguay
-- Lisa Ehrlinger — University of Potsdam, Germany
+- Gianluca Demartini - University of Queensland, Queensland
+- Gustavo Candela - University of Alicante, Spain
 - Hazar Harmouch — University of Amsterdam, Netherlands
+- Lisa Ehrlinger — University of Potsdam, Germany
+- Lorena Etcheverry — Universidad de la República, Uruguay
+- Marta Sabou — Vienna University of Economics and Business (WU), Austria
+- Yasunori Yamamoto - Hokkaido University, Japan
+
