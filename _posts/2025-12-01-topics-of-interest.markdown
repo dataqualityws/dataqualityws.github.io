@@ -22,7 +22,7 @@ Bias detection and explainability in data quality
 
 🗓 **Important Dates**
 
-- Paper submission deadline: March 3, 2026
+- Paper submission deadline: ~~March 3, 2026~~ March 10, 2026
 - Notification of acceptance: March 31, 2026
 - Camera-ready submission: April 15, 2026
 - Workshop date: May 10 and 11, ESWC 2026
