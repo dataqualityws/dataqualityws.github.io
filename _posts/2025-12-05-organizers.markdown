@@ -18,7 +18,7 @@ description: |
 
 **Keynote speaker**
 
-|<img class="organizers" src="assets/marta.jpg" width="200">|
+|<img class="organizers" src="assets/marta.jpeg" width="200">|
 |:-:|
 |Marta Sabou|
 |:-:|
