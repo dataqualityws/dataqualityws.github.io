@@ -5,7 +5,22 @@ category: Services
 title: Program 
 tag: program
 ---
-To be announced in 2026.
+| Start | Speaker | Talk title | 
+| ----- | ------- | -----------| 
+| 09:00 | Workshop Organizers | Web of Data Quality Workshop Opening | 
+| 09:05 | **Marta Sabou**, *Vienna University of Economics and Business (WU), Austria* | Keynote entitled *"Human-centric Evaluation of Semantic Resources: Results from a Systematic Mapping Study"*| 
+| 09:45 | Maruf Ahmed Mridul, Rohit Kapa and Oshani Seneviratne |	A Benchmark for Gap and Overlap Analysis as a Test of KG Task Readiness |
+| 10:00 | Marcelo Silva, Johannes Herrmann and Valerie Maxville |	An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment |
+| 10:15 | Maria Angela Pellegrino, Anisa Rula, Lisa Ehrlinger, András Micsik, Blerina Spahiu and Lorena Etcheverry |	Measuring What Matters: User Perceptions of Knowledge Graph Quality Dimensions in Cultural Heritage | 
+| 10:30 | |	*Break* | 
+| 11:00 | Patrick Lambrix and Ying Li |	Position paper: Issues in Logic-based Repairing of Knowledge Graphs | 
+| 11:15 | Zenon Zacouris, Jin Ke and Maribel Acosta |	Effects of Entailment in SHACL Validation of Closed Shapes | 
+| 11:30 | Robert David |	A multi-layered Approach to cope with Recursion in SHACL Repairs | 
+| 11:40 | Sana Latif |	A large-scale empirical analysis of FAIR compliance in biomedical KGs using KGHeartBeat and FAIR-Checker | 
+| 11:55 | Gabriele Tuozzo and Antonio Lieto |	Towards Automated FAIR Compliance Diagnosis: Evaluating LLMs on Explanation and Diagnosis Questions | 
+| 12:05 | Ruben Dedecker, Ben De Meester and Pieter Colpaert |	Context Associations: an Application-Independent Annotation Method for RDF Knowledge Graphs | 
+| 12:15 | Antonios Georgakopoulos, Paul Groth and Lise Stork |	Ranking-Guided Autoregressive Modeling for Multimodal Tabular Anomaly Detection | 
+| 12:25 | Workshop Organizers | Web of Data Quality Workshop Closing Ceremony | |
 
 <!--| Start | Speaker | Talk title | Presentation |
 | ----- | ------- | -----------| ------ |

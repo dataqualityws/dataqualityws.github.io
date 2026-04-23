@@ -18,14 +18,29 @@ description: |
 
 🧑‍💻 **Program Committee**
 
-- Dimitris Kontokostas - Medidata Knowledge Graph, USA
-- Ernesto Jiménez-Ruiz — University of London, UK
-- Gabriele Tuozzo — University of Salerno, Italy
-- Gianluca Demartini - University of Queensland, Queensland
 - Gustavo Candela - University of Alicante, Spain
-- Hazar Harmouch — University of Amsterdam, Netherlands
+- Robert David - Vienna University of Economics and Business, Austria
+- Ruben Dedecker - Ghent University, Belgium
 - Lisa Ehrlinger — University of Potsdam, Germany
-- Lorena Etcheverry — Universidad de la República, Uruguay
+- Paul Groth - University of Amsterdam, The Netherlands
+- Hazar Harmouch — University of Amsterdam, Netherlands
+- Aidan Hogan - Universidad de Chile, Chile
+- Ernesto Jiménez-Ruiz — University of London, UK
+- Rohit Kapa - Prudential Financial, USA
+- Omer Kilic - Maastricht University, The Netherlands
+- Dimitris Kontokostas - Medidata Knowledge Graph, USA
+- Ying Li - Linköping University, Sweden
+- Antonio Lieto — University of Salerno, Italy
+- Johannes Mäkelburg - Technical University Munich, Germany
+- Stefano Marchesin - University of Padua, Italy
+- Maruf Ahmed Mridul - Rensselaer Polytechnic Institute, USA
+- Heiko Paulheim - University of Mannheim, Germany
 - Marta Sabou — Vienna University of Economics and Business (WU), Austria
+- Stefani Tsaneva - Vienna University of Economics and Business (WU), Austria
+- Gabriele Tuozzo — University of Salerno, Italy
 - Yasunori Yamamoto - Hokkaido University, Japan
+- Zenon Zacouris -  Technical University Munich, Germany
+
+ 
+
 
