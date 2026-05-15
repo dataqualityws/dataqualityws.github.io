@@ -49,7 +49,7 @@ Prof. Sabou leads the Semantic Systems research group, which performs foundation
 **Best workshop paper**
 The best workshop paper has been assigned to Gabriele Tuozzo and Antonio Lieto for their paper "Towards Automated FAIR Compliance Diagnosis: Evaluating LLMs on Explanation and Diagnosis Questions". Congratulations! 
 
-<img class="award" src="assets/award.jpeg">
+<img class="award" width="1200px" src="assets/award.jpeg">
 
 <!--| Start | Speaker | Talk title | Presentation |
 | ----- | ------- | -----------| ------ |
