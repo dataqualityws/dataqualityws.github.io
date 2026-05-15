@@ -5,12 +5,15 @@ category: Services
 title: Program 
 tag: program
 ---
+
+Proceedings are available online at [http://ceur-ws.org/Vol-4205](http://ceur-ws.org/Vol-4205).
+
 | Start | Speaker | Talk title | Slides |
 | ----- | ------- | -----------| ------ |
 | 09:00 | Workshop Organizers | Web of Data Quality Workshop Opening | 
 | 09:05 | **Marta Sabou**, *Vienna University of Economics and Business (WU), Austria* | Keynote entitled *"Human-centric Evaluation of Semantic Resources: Results from a Systematic Mapping Study"*| [Slides](https://zenodo.org/records/20199559) |
 | 09:45 | Maruf Ahmed Mridul, Rohit Kapa and Oshani Seneviratne |	A Benchmark for Gap and Overlap Analysis as a Test of KG Task Readiness | [Slides](../assets/QKG@ESWC2026_SENEVIRATNE_paper1.pdf) |
-| 10:00 | Marcelo Silva, Johannes Herrmann and Valerie Maxville |	An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment | [Slides](../assets/QKG@ESWC2026_SILVA_paper2.pdf) |
+| 10:00 | Marcelo Silva, Johannes Herrmann and Valerie Maxville |	An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment | [Slides](../assets/QKG@ESWC2026_SILVA_paper2.pptx) |
 | 10:15 | Maria Angela Pellegrino, Anisa Rula, Lisa Ehrlinger, András Micsik, Blerina Spahiu and Lorena Etcheverry |	Measuring What Matters: User Perceptions of Knowledge Graph Quality Dimensions in Cultural Heritage | [Slides](../assets/QKG@ESWC2026_PELLEGRINO_paper3.pdf) |
 | 10:30 | |	*Break* | 
 | 11:00 | Patrick Lambrix and Ying Li |	Position paper: Issues in Logic-based Repairing of Knowledge Graphs | |
@@ -42,6 +45,11 @@ Marta Sabou is a professor for Information Systems and Business Engineering at  
 Prof. Sabou leads the Semantic Systems research group, which performs foundational and applied research on topics ranging from knowledge engineering (knowledge graphs and their evaluation, data integration) to the development of novel intelligent systems that combine both symbolic and sub-symbolic AI techniques, i.e., neuro-symbolic systems. Increasingly, the group addresses topics in the area of Digital Humanism such as the auditing of AI systems and the involvement of human stakeholders in the design of intelligent systems.
 
 **Link to the slides** : Slides are available online on Zenodo. You can access them [here](https://zenodo.org/records/20199559).
+
+**Best workshop paper**
+The best workshop paper has been assigned to Gabriele Tuozzo and Antonio Lieto for their paper "Towards Automated FAIR Compliance Diagnosis: Evaluating LLMs on Explanation and Diagnosis Questions". Congratulations! 
+
+<img class="award" src="assets/award.jpeg">
 
 <!--| Start | Speaker | Talk title | Presentation |
 | ----- | ------- | -----------| ------ |
