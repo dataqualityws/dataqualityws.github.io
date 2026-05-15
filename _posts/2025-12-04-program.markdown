@@ -5,21 +5,21 @@ category: Services
 title: Program 
 tag: program
 ---
-| Start | Speaker | Talk title | 
-| ----- | ------- | -----------| 
+| Start | Speaker | Talk title | Slides |
+| ----- | ------- | -----------| ------ |
 | 09:00 | Workshop Organizers | Web of Data Quality Workshop Opening | 
-| 09:05 | **Marta Sabou**, *Vienna University of Economics and Business (WU), Austria* | Keynote entitled *"Human-centric Evaluation of Semantic Resources: Results from a Systematic Mapping Study"*| 
-| 09:45 | Maruf Ahmed Mridul, Rohit Kapa and Oshani Seneviratne |	A Benchmark for Gap and Overlap Analysis as a Test of KG Task Readiness |
-| 10:00 | Marcelo Silva, Johannes Herrmann and Valerie Maxville |	An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment |
-| 10:15 | Maria Angela Pellegrino, Anisa Rula, Lisa Ehrlinger, András Micsik, Blerina Spahiu and Lorena Etcheverry |	Measuring What Matters: User Perceptions of Knowledge Graph Quality Dimensions in Cultural Heritage | 
+| 09:05 | **Marta Sabou**, *Vienna University of Economics and Business (WU), Austria* | Keynote entitled *"Human-centric Evaluation of Semantic Resources: Results from a Systematic Mapping Study"*| [Slides](https://zenodo.org/records/20199559) |
+| 09:45 | Maruf Ahmed Mridul, Rohit Kapa and Oshani Seneviratne |	A Benchmark for Gap and Overlap Analysis as a Test of KG Task Readiness | [Slides](../assets/QKG@ESWC2026_SENEVIRATNE_paper1.pdf) |
+| 10:00 | Marcelo Silva, Johannes Herrmann and Valerie Maxville |	An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment | [Slides](../assets/QKG@ESWC2026_SILVA_paper2.pdf) |
+| 10:15 | Maria Angela Pellegrino, Anisa Rula, Lisa Ehrlinger, András Micsik, Blerina Spahiu and Lorena Etcheverry |	Measuring What Matters: User Perceptions of Knowledge Graph Quality Dimensions in Cultural Heritage | [Slides](../assets/QKG@ESWC2026_PELLEGRINO_paper3.pdf) |
 | 10:30 | |	*Break* | 
-| 11:00 | Patrick Lambrix and Ying Li |	Position paper: Issues in Logic-based Repairing of Knowledge Graphs | 
-| 11:15 | Zenon Zacouris, Jin Ke and Maribel Acosta |	Effects of Entailment in SHACL Validation of Closed Shapes | 
-| 11:30 | Robert David |	A multi-layered Approach to cope with Recursion in SHACL Repairs | 
-| 11:40 | Sana Latif |	A large-scale empirical analysis of FAIR compliance in biomedical KGs using KGHeartBeat and FAIR-Checker | 
-| 11:55 | Gabriele Tuozzo and Antonio Lieto |	Towards Automated FAIR Compliance Diagnosis: Evaluating LLMs on Explanation and Diagnosis Questions | 
-| 12:05 | Ruben Dedecker, Ben De Meester and Pieter Colpaert |	Context Associations: an Application-Independent Annotation Method for RDF Knowledge Graphs | 
-| 12:15 | Antonios Georgakopoulos, Paul Groth and Lise Stork |	Ranking-Guided Autoregressive Modeling for Multimodal Tabular Anomaly Detection | 
+| 11:00 | Patrick Lambrix and Ying Li |	Position paper: Issues in Logic-based Repairing of Knowledge Graphs | |
+| 11:15 | Zenon Zacouris, Jin Ke and Maribel Acosta |	Effects of Entailment in SHACL Validation of Closed Shapes | [Slides](../assets/QKG@ESWC2026_ZACOURIS_paper5.pdf) |
+| 11:30 | Robert David |	A multi-layered Approach to cope with Recursion in SHACL Repairs | [Slides](../assets/QKG@ESWC2026_DAVID_paper6.pdf) |
+| 11:40 | Sana Latif |	A large-scale empirical analysis of FAIR compliance in biomedical KGs using KGHeartBeat and FAIR-Checker | [Slides](../assets/QKG@ESWC2026_LATIF_paper7.pdf) |
+| 11:55 | Gabriele Tuozzo and Antonio Lieto |	Towards Automated FAIR Compliance Diagnosis: Evaluating LLMs on Explanation and Diagnosis Questions | [Slides](../assets/QKG@ESWC2026_TUOZZO_paper8.pdf) |
+| 12:05 | Ruben Dedecker, Ben De Meester and Pieter Colpaert |	Context Associations: an Application-Independent Annotation Method for RDF Knowledge Graphs | [Slides](../assets/QKG@ESWC2026_DEDECKER_paper9.pdf) |
+| 12:15 | Antonios Georgakopoulos, Paul Groth and Lise Stork |	Ranking-Guided Autoregressive Modeling for Multimodal Tabular Anomaly Detection | [Slides](../assets/QKG@ESWC2026_GROTH_paper10.pdf) |
 | 12:25 | Workshop Organizers | Web of Data Quality Workshop Closing Ceremony | |
 
 **Keynote speaker**
@@ -40,6 +40,8 @@ As ontologies and knowledge graphs increasingly power intelligent applications a
 **Short bio**
 Marta Sabou is a professor for Information Systems and Business Engineering at  the Vienna University of Economics and Business (WU) and the Head of Institute for Data, Process and Knowledge Management (DPKM). She holds  a PhD in Artificial Intelligence from Vrije Universiteit Amsterdam, for which she received the IEEE Intelligent System’s Ten to Watch Award in 2006. During her career, she performed Artificial Intelligence (AI) research at the Open University UK, MODUL University Vienna, Siemens and the Vienna University of Technology.
 Prof. Sabou leads the Semantic Systems research group, which performs foundational and applied research on topics ranging from knowledge engineering (knowledge graphs and their evaluation, data integration) to the development of novel intelligent systems that combine both symbolic and sub-symbolic AI techniques, i.e., neuro-symbolic systems. Increasingly, the group addresses topics in the area of Digital Humanism such as the auditing of AI systems and the involvement of human stakeholders in the design of intelligent systems.
+
+**Link to the slides** : Slides are available online on Zenodo. You can access them [here](https://zenodo.org/records/20199559).
 
 <!--| Start | Speaker | Talk title | Presentation |
 | ----- | ------- | -----------| ------ |
